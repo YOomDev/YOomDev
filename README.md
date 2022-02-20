@@ -1,7 +1,7 @@
 Hello, I’m @YOomDev
 
 What do I do:
-I'm a dutch Chemist, and am using this github account to host some of my hobby projects and some (probably privated) work associated hobby projects.
+I'm a dutch Chemist, who likes to code as a hobby.
 
 What am I interested in:
  - Chemistry
