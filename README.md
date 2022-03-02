@@ -14,7 +14,7 @@ What am I interested in:
   - PHP
   - SQL
   
-  The languages i speak:
+  The languages I speak:
    - Dutch (terrible at it for a native)
    - English (probably better than my native language)
    - Currently starting to learn japanese
