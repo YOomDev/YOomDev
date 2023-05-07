@@ -10,7 +10,7 @@ I'm a dutch Chemist, who likes to code as a hobby.
 ## What programming languages have I used:
  - C++
  - Java
- - HTML, CSS, JS
+ - HTML, CSS, JS (NodeJS + npm)
  - PHP
  - SQL
  
